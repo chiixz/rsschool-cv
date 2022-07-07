@@ -6,10 +6,10 @@
     ***MIDDLENAME: TALANTOVICH
     ***DATE OF BIRTH: 03.11.94
 
-#EDUCATION:                               
+#EDUCATION:
     ***KYRGYZ NATIONAL UNIVERSITY(KNU), FACULTY OF ECONOMICS/  Fincance and credit department _2016-2021_
 
-#JOB EXPERIENCE:   
+#JOB EXPERIENCE:
     ***DOSCREDO BANK - credit specialist(intern) 2 month 
     ***PRIVATE COMPANY - underwriter 6 month
 
@@ -18,6 +18,6 @@
     ***ENGLISH - PRE-INTERMEDIATE
     ***TURKISH - PRE-INTEMEDIATE
 
-#CONTACT INFORMATION: 
+#CONTACT INFORMATION:   
     ***PHONE NUMBER: +996706206010 (W/A, TELEGRAM)
     ***EMAIL: dzhumadylov.ch@gmail.com   
